@@ -11,4 +11,4 @@ def eggDrop(dropCount, floorCount):
     return dropMax
 
 
-print(eggDrop(3, 100))
+print(eggDrop(2, 100))
